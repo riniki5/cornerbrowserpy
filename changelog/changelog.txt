@@ -1,0 +1,8 @@
+Changelog - 
+Version 0.1 (A0130824) Alpha ver.
+ Buttons: Back Forward Reload Home New Tab Close Tab
+ Added an corner:// extension
+ Added Tabs
+ Added an Error LOG
+Version 0.2 (A02...) 
+ Soon...
