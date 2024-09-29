@@ -1,2 +1,5 @@
-# cornerbrowserpy
-Web Browser Called Corner Created with Python PyQt5
+# Corner Browser
+- Created with Python
+- Not Much actually
+
+To download go to the releases.
